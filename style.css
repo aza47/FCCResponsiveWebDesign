@@ -1,7 +1,19 @@
 .header {
     background-color: burlywood;
-    margin-left: auto;
+    margin-left: auto; 
     margin-right: auto;
 
 }
-/* . is class selector, used for multiple elements & # is id selector, for 1 element*/
+/* . is class selector, used for multiple elements; # is id selector, for 1 element; type is used for tags, no symbol*/
+
+a:visited{
+
+}
+a:hover {
+
+}
+/* when margin has 2 vals, top & bottom 1st, left & right 2nd \, ex. margin: 10px auto;*/
+/* multiple classes, seperate w space, ex. class="dog animal" */
+
+
+/* colours: rgb, hsl, #(hex) */
